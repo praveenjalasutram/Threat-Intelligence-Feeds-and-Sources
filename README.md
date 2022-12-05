@@ -38,7 +38,7 @@ A collection of best threat intelligence feeds and sources
 - CIF: https://csirtgadgets.com/collective-intelligence-framework/
 
 ## Twitter Accounts for IOCs:
-- Vx-Underground: https://twitter.com/vxunderground
+- https://twitter.com/vxunderground
 - https://twitter.com/malwrhunterteam
 - https://twitter.com/blackorbird
 - https://twitter.com/arieitan

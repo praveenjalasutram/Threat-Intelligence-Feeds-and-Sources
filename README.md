@@ -17,7 +17,7 @@ A collection of best threat intelligence feeds and sources
 - Shodan: https://www.shodan.io/
 - Infoblox Github: https://github.com/infobloxopen/threat-intelligence
 - Vx-Underground: https://www.vx-underground.org/
-- - Threat Intel Resources Github: https://github.com/P3t3rp4rk3r/Threat_Intelligence
+- Threat Intel Resources Github: https://github.com/P3t3rp4rk3r/Threat_Intelligence
 
 ## Threat Intelligence News & Advisories
 - CISA: https://www.cisa.gov/uscert/ncas/alerts
